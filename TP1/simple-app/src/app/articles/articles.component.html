@@ -1,0 +1,3 @@
+<app-article *ngFor="let article of this.articles" [customAuthor]="article.authors" [customContent]="article.content" [title]="article.title"></app-article>
+
+<app-article  [article]="article" (deletedArticle)="delete($event)"></app-article>

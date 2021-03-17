@@ -1,2 +1,8 @@
-# TP1-Hamel
-First TP for student Hamel.
+# TP1-Hamels
+
+First TP for student Hamel Ludovic.
+
+## Helped by
+Alexandre Marie
+Hugo Tamberi
+Paulin Lambert
